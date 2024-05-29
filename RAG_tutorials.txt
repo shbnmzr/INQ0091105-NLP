@@ -1,0 +1,6 @@
+Here is a list of the urls (tutorials) I am using to gather info on RAG
+
+https://medium.com/@akriti.upadhyay/implementing-rag-with-langchain-and-hugging-face-28e3ea66c5f7
+https://medium.com/@jiangan0808/retrieval-augmented-generation-rag-with-open-source-hugging-face-llms-using-langchain-bd618371be9d
+https://python.langchain.com/v0.1/docs/modules/data_connection/document_transformers/recursive_text_splitter/
+https://learnopencv.com/rag-with-llms/
