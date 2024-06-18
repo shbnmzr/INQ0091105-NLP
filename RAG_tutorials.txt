@@ -4,3 +4,4 @@ https://medium.com/@akriti.upadhyay/implementing-rag-with-langchain-and-hugging-
 https://medium.com/@jiangan0808/retrieval-augmented-generation-rag-with-open-source-hugging-face-llms-using-langchain-bd618371be9d
 https://python.langchain.com/v0.1/docs/modules/data_connection/document_transformers/recursive_text_splitter/
 https://learnopencv.com/rag-with-llms/
+https://youtu.be/VpbMUSPRJmY?si=Fkeb3-x67Fvxzy3n
